@@ -1,0 +1,58 @@
+{
+  "name": "Marjiya Auto Jashore",
+  "short_name": "Marjiya Auto",
+  "description": "100% genuine motorcycle spare parts. Home delivery across Bangladesh.",
+  "start_url": "/marjiya.auto/",
+  "scope": "/marjiya.auto/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#f05a1a",
+  "orientation": "portrait-primary",
+  "lang": "bn-BD",
+  "categories": ["shopping", "automotive"],
+  "icons": [
+    {
+      "src": "/marjiya.auto/assets/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/marjiya.auto/assets/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/marjiya.auto/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/marjiya.auto/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/marjiya.auto/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Browse Parts",
+      "short_name": "Parts",
+      "description": "Browse all motorcycle spare parts",
+      "url": "/marjiya.auto/#brands",
+      "icons": [{ "src": "/marjiya.auto/assets/favicon-32x32.png", "sizes": "32x32" }]
+    },
+    {
+      "name": "WhatsApp Order",
+      "short_name": "Order",
+      "description": "Order parts on WhatsApp",
+      "url": "https://wa.me/8801349022347",
+      "icons": [{ "src": "/marjiya.auto/assets/favicon-32x32.png", "sizes": "32x32" }]
+    }
+  ]
+}
